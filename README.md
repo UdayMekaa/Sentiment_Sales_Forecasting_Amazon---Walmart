@@ -2,7 +2,7 @@
 
 **Combining Amazon Customer Sentiment with Walmart Sales using Python & GenAI**
 
-![Dashboard](dashboard/Sentiment-Driven_Sales.png)
+![**Dashboard**](Visualizations/dashboard/.ipynb_checkpoints/)
 
 ## 📌 Overview
 
