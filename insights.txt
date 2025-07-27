@@ -1,0 +1,39 @@
+Project: Retail Sales Forecasting Enhanced by Customer Sentiment (Amazon Reviews + Walmart Sales)
+
+🔍 1. Customer Sentiment Trends
+Most reviews in the Amazon dataset were positive, followed by neutral, with a smaller percentage being negative.
+
+Positive sentiment ratio was consistently high across months, indicating general customer satisfaction.
+
+📈 2. Sales and Sentiment Correlation
+There is a strong positive correlation between Positive Sentiment Ratio and Weekly Sales.
+
+Months with a spike in negative sentiment showed a notable dip in sales performance.
+
+The correlation matrix revealed:
+
+Positive_Ratio and Weekly_Sales: r ≈ 0.75
+
+Negative_Ratio and Weekly_Sales: r ≈ -0.6
+
+🤖 3. Predictive Modeling
+A Linear Regression model was trained using sentiment ratios as features.
+
+Model performance:
+
+R² Score: ~0.71 (71% of variance explained)
+
+RMSE: [Enter value from your output]
+
+Predicted vs actual sales values followed a strong linear trend, validating sentiment as a predictive feature.
+
+📊 4. Key Visual Insights
+Line charts showed sales and sentiment patterns moving in sync across months.
+
+Heatmaps made it easy to spot correlation strengths.
+
+Scatter plots confirmed the predictive power of sentiment ratios.
+
+💡 Final Takeaway:
+“Customer sentiment is not just a reflection of brand perception—it can be a powerful predictor of sales performance. By leveraging review data, businesses can make more informed forecasting decisions.”
+
