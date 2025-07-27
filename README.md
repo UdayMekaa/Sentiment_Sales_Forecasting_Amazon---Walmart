@@ -85,8 +85,8 @@ If you found this project interesting or want to collaborate, feel free to conne
 
 ## 📁 Datasets
 
-- **Amazon Reviews**: [Fine Food Reviews on Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
-- **Walmart Sales**: [M5 Forecasting - Accuracy Dataset](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
+- **Amazon reviews**:[Amazon Reviews Dataset on Kaggle](https://www.kaggle.com/datasets/udaymadhusudhan/amazon-reviews-dataset/data)
+- **Walmart Sales**: [Cleaned Walmart Sales Forecasting on Kaggle](https://www.kaggle.com/datasets/udaymadhusudhan/cleaned-walmart-sales-forecasting)
 
 ---
 
